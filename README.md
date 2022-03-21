@@ -2,7 +2,7 @@
 
 I’m passionate about signal processing, Linux, and enjoy contributing to free & open source software, especially Python’s scientific ecosystem. I have a degree in electrical engineering and currently work and live in Dresden, Germany.
 
-If you want to encrypt something for me or verify my signature you can use my [🔑 public PGP key](7B7482BA2FA7E85BC009D8C9861F446C5CBF173E.pubkey).
+If you want to encrypt something for me or verify my signature you can use my [🔑 public PGP key](https://raw.githubusercontent.com/lagru/lagru/main/7B7482BA2FA7E85BC009D8C9861F446C5CBF173E.pubkey).
 
 Feel free to message me if you want to get in touch or find me on [🦊 GitLab](https://gitlab.com/lagru), [🌳 Scientific Python](https://discuss.scientific-python.org/u/lagru/), [🖇️ LinkedIn](https://www.linkedin.com/in/lars-gr%C3%BCter-425462234/) or [👔 XING](https://www.xing.com/profile/Lars_Grueter4).
 
