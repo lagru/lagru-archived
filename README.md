@@ -1,10 +1,10 @@
 ### Hi, I'm Lars 👋
 
-I’m passionate about signal processing, Linux, and enjoy contributing to free & open source software, especially Python’s scientific ecosystem. I'm an electrical engineer and currently work and live in Dresden, Germany, as a research assistant and PhD student.
-
-If you want to encrypt something for me or verify my signature you can use my [🔑 public PGP key](https://raw.githubusercontent.com/lagru/lagru/main/7B7482BA2FA7E85BC009D8C9861F446C5CBF173E.pubkey).
+I’m passionate about signal processing, Linux, and enjoy contributing to free & open source software, especially Python’s scientific ecosystem. I'm an electrical engineer by education and currently work as a freelancer for the [🐍 scikit-image project](https://scikit-image.org) out of Dresden, Germany.
 
 Feel free to message me if you want to get in touch or find me on [🌳 Scientific Python](https://discuss.scientific-python.org/u/lagru/), [🦊 GitLab](https://gitlab.com/lagru) or [🖇️ LinkedIn](https://www.linkedin.com/in/lars-grueter).
+
+If you want to encrypt something for me or verify my signature, you can use my [🔑 public PGP key](https://raw.githubusercontent.com/lagru/lagru/main/7B7482BA2FA7E85BC009D8C9861F446C5CBF173E.pubkey).
 
 Pet projects:
 
