@@ -6,12 +6,6 @@ Feel free to message me if you want to get in touch or find me on [🌳 Scientif
 
 If you want to encrypt something for me or verify my signature, you can use my [🔑 public PGP key](https://raw.githubusercontent.com/lagru/lagru/main/7B7482BA2FA7E85BC009D8C9861F446C5CBF173E.pubkey).
 
-Pet projects:
-
-- [⚙️ pacautomation](https://gitlab.com/lagru/pacautomation) - A periodic background service for automated maintenance around Arch Linux's pacman
-- [🔬 PtvPy](https://tud-mst.gitlab.io/ptvpy/) - A Command line tool and Python library for particle tracking velocimetry
-
-
 <!--
 **lagru/lagru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
